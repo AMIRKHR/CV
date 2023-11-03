@@ -1,5 +1,5 @@
 # CV
-##CV de Omar Sissoko / Etudient Lycée Turgot / BTS SIO Informatique Cybersécurité 
+###CV de Omar Sissoko / Etudient Lycée Turgot / BTS SIO Informatique Cybersécurité 
 
 
 ###Compétences 
