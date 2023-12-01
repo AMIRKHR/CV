@@ -19,6 +19,8 @@
 
 ### Outils developpement
 - Visual studio code
+- Notepad++
+  
 
 
 
