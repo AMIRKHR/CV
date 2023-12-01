@@ -1,44 +1,54 @@
-# CV
-###CV de Omar Sissoko / Etudient Lycée Turgot / BTS SIO Informatique Cybersécurité 
+# CV - Omar Sissoko
 
+## Étudiant au Lycée Turgot - BTS SIO Informatique Cybersécurité
 
-###Compétences 
--j'ai des competences en windows serveur Administration
-j'ai aussi des compétences en lunux Administration
+### Compétences
 
-###Développment
--PHP
--HTML
--bootstrap
+- Administration de serveurs Windows
+- Administration de systèmes Linux
 
-###Systémes
--Administration et maintenance.
--Linux(UBUMTU) : Administration système.
+### Développement
 
-###Virtualisation
--Virtualox
+- PHP
+- HTML
+- Bootstrap
 
-###Réseau
--Cisco Packet Tracer
--Cisco Networking Essentials
--Routage
--DNS
--DHCP
--VoIP/ / Téléphonie sur IP
+### Systèmes
 
-###Cybersecurité
--Rootme
--pia
--ebios
+- Administration et maintenance système
+- Linux (Ubuntu) : Administration système
 
-###Systèmes embarqués
--Arduino
--Raspberry
+### Virtualisation
 
-###Autres
--montage(vidéo, photo)
--community management(instagram , google ads , facebook ads)
--Compétences dans la mode
--anglais niveau b1
--Compétences dans la mode
--anglais niveau b1
+- VirtualBox
+
+### Réseau
+
+- Cisco Packet Tracer
+- Cisco Networking Essentials
+- Routage
+- DNS
+- DHCP
+- VoIP/Téléphonie sur IP
+
+### Cybersecurité
+
+- Rootme
+- PIA (Private Internet Access)
+- EBios
+
+### Systèmes embarqués
+
+- Arduino
+- Raspberry Pi
+
+### Autres
+
+- Montage (vidéo, photo)
+- Community management (Instagram, Google Ads, Facebook Ads)
+- Compétences dans la mode
+- Niveau B1 en anglais
+
+---
+
+*Note: Le document est structuré en utilisant Markdown, idéal pour affichage sur GitHub.*
