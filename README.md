@@ -19,8 +19,9 @@
 
 - Administration et maintenance système
 - Linux (Ubuntu) : Administration système
+  
   ### outils developpement
-  - Photoshop
+  -Photoshop
   - Capcut
   
 ### Virtualisation:
