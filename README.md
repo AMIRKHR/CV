@@ -2,27 +2,32 @@
 
 ## Étudiant au Lycée Turgot - BTS SIO Informatique Cybersécurité
 
-### Compétences
+### Compétences:
 
 - Administration de serveurs Windows
 - Administration de systèmes Linux
 
-### Développement
+### Développement:
 
 - PHP
 - HTML
 - Bootstrap
 
-### Systèmes
+### Systèmes:
+-windows: Admin
+-Linux: Admin systéme
 
 - Administration et maintenance système
 - Linux (Ubuntu) : Administration système
-
-### Virtualisation
+  ### outils developpement
+  - Photoshop
+  - Capcut
+  
+### Virtualisation:
 
 - VirtualBox
 
-### Réseau
+### Réseau:
 
 - Cisco Packet Tracer
 - Cisco Networking Essentials
@@ -31,24 +36,28 @@
 - DHCP
 - VoIP/Téléphonie sur IP
 
-### Cybersecurité
+### Cybersecurité:
 
 - Rootme
 - PIA (Private Internet Access)
 - EBios
 
-### Systèmes embarqués
+### Systèmes embarqués:
 
 - Arduino
 - Raspberry Pi
 
-### Autres
+#### Compétences Transversales:
+
+- Gestion de projets
+- Gestion financière
+- Droit
+- Gestion de recherche de fournisseurs et collaborateurs
+### Autres:
 
 - Montage (vidéo, photo)
 - Community management (Instagram, Google Ads, Facebook Ads)
 - Compétences dans la mode
+- personal shoppeur
+### Langues:
 - Niveau B1 en anglais
-
----
-
-*Note: Le document est structuré en utilisant Markdown, idéal pour affichage sur GitHub.*
