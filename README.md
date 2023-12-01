@@ -14,15 +14,13 @@
 - Bootstrap
 
 ### Systèmes:
--windows: Admin
--Linux: Admin systéme
-
 - Administration et maintenance système
 - Linux (Ubuntu) : Administration système
   
   ### outils developpement
-  -Photoshop
-  - Capcut
+  -SQL
+  -Virtual studio box
+  -Laragon
   
 ### Virtualisation:
 
