@@ -16,11 +16,13 @@
 ### Systèmes:
 - Administration et maintenance système
 - Linux (Ubuntu) : Administration système
-  
-  ### outils developpement
--SQL
--Virtual studio box
--Laragon
+
+### Outils developpement
+- Visual studio code
+
+
+
+
   
 ### Virtualisation:
 - VirtualBox
