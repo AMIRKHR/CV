@@ -18,36 +18,28 @@
 - Linux (Ubuntu) : Administration système
   
   ### outils developpement
-  -SQL
-  -Virtual studio box
-  -Laragon
+-SQL
+-Virtual studio box
+-Laragon
   
 ### Virtualisation:
-
 - VirtualBox
-
+  
 ### Réseau:
-
 - Cisco Packet Tracer
 - Cisco Networking Essentials
 - Routage
 - DNS
 - DHCP
 - VoIP/Téléphonie sur IP
-
 ### Cybersecurité:
-
 - Rootme
 - PIA (Private Internet Access)
 - EBios
-
 ### Systèmes embarqués:
-
 - Arduino
 - Raspberry Pi
-
 #### Compétences Transversales:
-
 - Gestion de projets
 - Gestion financière
 - Droit
